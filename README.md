@@ -11,8 +11,6 @@
 
 - 🌱 I’m currently learning **DSA, Web Development,**
 
-- 📝 I regularly write articles on [Hashnode](Hashnode)
-
 - 💬 Ask me about **problem solving & development**
 
 - 📫 How to reach me **codegeeky2024@gmail.com**
