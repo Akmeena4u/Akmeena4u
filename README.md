@@ -9,11 +9,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akmeena4u&label=Profile%20views&color=0e75b6&style=flat" alt="akmeena4u" /> </p>
 
-- 🌱 I’m currently learning **DSA, Web Development,**
+- 🌱 Exploring **DSA, Web Development,**
 
 - 💬 Ask me about **problem solving & development**
 
-- 📫 How to reach me **ak872030@student.nitw.ac.in**
+- 📫 How to reach me **akmeena.work@gmail.com**
 - Portfolio website- https://akmeena4u.github.io/PersonalPortfolio/
 
 <h3 align="left">Connect with me:</h3>
